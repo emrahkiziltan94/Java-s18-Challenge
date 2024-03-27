@@ -1,7 +1,7 @@
 package com.workintech.s18challenge.entity;
 
-import jakarta.persistence.*;
 import lombok.Data;
+import jakarta.persistence.*;
 import lombok.NoArgsConstructor;
 
 import java.util.ArrayList;
